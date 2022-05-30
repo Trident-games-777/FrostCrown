@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Frost Crown</string>
+
+    <string name="facebook_app_id">333567885524836</string>
+    <string name="facebook_client_token">a5234d0ba5d22ff539aa19e8bed3a338</string>
+    <string name="where_is">Where is</string>
+    <string name="target_image">target image</string>
+    <string name="play_again">Play again</string>
+
+    <array name="dirs_array">
+        <item>/sbin/</item>
+        <item>/system/bin/</item>
+        <item>/system/xbin/</item>
+        <item>/data/local/xbin/</item>
+        <item>/data/local/bin/</item>
+        <item>/system/sd/xbin/</item>
+        <item>/system/bin/failsafe/</item>
+        <item>/data/local/</item>
+    </array>
+</resources>
